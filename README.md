@@ -48,8 +48,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Screenshot (54)](https://user-images.githubusercontent.com/118344328/215303531-97acb0de-ce5a-4df8-be06-cbba3ea8ce07.png)
 
+![Screenshot (56)](https://user-images.githubusercontent.com/118344328/215303836-bb340622-1fce-4bc3-901a-00717e60ece7.png)
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/118344328/215303262-1054ef36-225e-4a08-b8bc-140dbc2b8e79.png)
 
