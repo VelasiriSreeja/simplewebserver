@@ -48,6 +48,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![Screenshot (54)](https://user-images.githubusercontent.com/118344328/215303195-8776ec32-ca1f-4060-98a7-b2dafc777e3e.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/118344328/215303204-104ea55a-9432-4d46-bdc1-3b78c2121194.png)
+
 
 
 ## RESULT:
