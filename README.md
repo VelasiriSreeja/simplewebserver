@@ -49,10 +49,11 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+![Screenshot (56)](https://user-images.githubusercontent.com/118344328/215304416-7762ff90-af9e-4bf7-9480-b25a7f00f56d.png)
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/118344328/215303262-1054ef36-225e-4a08-b8bc-140dbc2b8e79.png)
 
-![Screenshot (56)](https://user-images.githubusercontent.com/118344328/215304012-7c95a4b3-62b0-449e-b763-b845b7044d6a.png)
+
 
 ## RESULT:
 Thus the webserver is developed to display about top five programming languages
